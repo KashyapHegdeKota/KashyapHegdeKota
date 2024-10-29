@@ -10,7 +10,7 @@ Currently pursuing a Bachelors Degree in Computer Science at Arizona State Unive
 * 🖥️  See my portfolio at [GitHub](http://github.com/KashyapHegdeKota)
 * ✉️  You can contact me at [kota2022kashyap@gmail.com](mailto:kota2022kashyap@gmail.com)
 * 🧠  I'm learning ReactJS
-* 🌐  Visit my personal website at [kashyaphegde.com](kashyaphegde.com)
+* 🌐  Visit my personal website at [kashyaphegde.com](http://kashyaphegde.com)
 
 ### Skills
 
