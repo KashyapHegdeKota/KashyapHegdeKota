@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **kota2022kashyap@gmail.com**
 
-- 📄 Know about my experiences [Résumé](https://drive.google.com/file/d/14KgMIkabSP9_L-MHHZ1CE-Y0XxqJ6-vI/view?usp=sharing)
+- 📄 Know about my experiences [Résumé](https://kashyaphegde.com/Resume)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
