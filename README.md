@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kashyaphegdekota" alt="kashyaphegdekota" /></a> </p>
 
-- 🔭 I’m currently working on [spotify2ytmusic](https://github.com/KashyapHegdeKota/spotify2ytmusic-frontend)
+- 🔭 I’m currently working on [AutoPatch.ai](https://github.com/KashyapHegdeKota/AutoPatch.ai)
 
 - 🌱 I’m currently learning **FastAPI**
 
