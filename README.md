@@ -48,5 +48,4 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=KashyapHegdeKota&theme=tokyonight)](https://git.io/streak-stats)
-![Kashyap's GitHub stats](https://github-readme-stats.vercel.app/api?username=KashyapHegdeKota&show_icons=true&theme=tokyonight&count_private=true)
 ![snake gif](https://github.com/KashyapHegdeKota/KashyapHegdeKota/blob/output/github-snake-dark.svg)
