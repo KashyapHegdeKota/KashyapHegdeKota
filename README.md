@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kashyaphegdekota&label=Profile%20views&color=0e75b6&style=flat" alt="kashyaphegdekota" /> </p>
 
-- 🔭 I'm currently working on [AutoPatch.ai](https://github.com/KashyapHegdeKota/AutoPatch.ai)
+- 🔭 I'm currently working on [JobPing](https://github.com/KashyapHegdeKota/JobPing.ai)
 - 🌱 I'm currently learning **FastAPI**
 - 👨‍💻 All of my projects are available at [https://kashyaphegde.com](https://kashyaphegde.com)
 - 📫 How to reach me **kota2022kashyap@gmail.com**
