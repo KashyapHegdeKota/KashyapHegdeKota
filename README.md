@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kashyap Hegde Kota</h1>
 <h3 align="center">A passionate Computer Science Student at Arizona State University</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kashyaphegdekota&label=Profile%20views&color=0e75b6&style=flat" alt="kashyaphegdekota" /> </p>
-
 - 🔭 I'm currently working on [JobPing](https://github.com/KashyapHegdeKota/JobPing.ai)
 - 🌱 I'm currently learning **FastAPI**
 - 👨‍💻 All of my projects are available at [https://kashyaphegde.com](https://kashyaphegde.com)
